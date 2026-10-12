@@ -1,4 +1,4 @@
-## Unreleased
+## v1.1.0
 
 - This release updates the introduction and history documents to improve the project's documentation and provide a clearer account of its development.
 
